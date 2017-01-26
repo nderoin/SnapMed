@@ -104,7 +104,6 @@ hand();
 setInterval(hand, 2000);
 </script>
 
-<p>This example demonstrates how to use an icon library to make an animated effect.</p>
 </body>
 </html>
 
